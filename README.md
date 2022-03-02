@@ -2,4 +2,4 @@
 
 This is the project created for Microsoft Future Ready Talent Virtual Internship Program
 
-Azure Url: https://calm-hill-08569f110.1.azurestaticapps.net
+Azure Url For Future Ready Talent Project: https://calm-hill-08569f110.1.azurestaticapps.net
