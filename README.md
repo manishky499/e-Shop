@@ -28,3 +28,7 @@ An e-commerce company wants to build a sample Front End prototype website for th
 
 **Project Description:**
 Core idea of Project is to build an sample prototype E-Commerce Website for a business company with the help of HTML, CSS, JAVASCRIPT. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web.The primary goal of sample prototype an e-commerce site is to sell goods online & easy way . This project deals with developing an e-commerce website for Online Product Sale. It provides the user with a catalog of different product available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user. We are using Azure Technologies with GitHub to complete this project.
+
+**Primary Azure Technology:**
+Static Web Apps
+
