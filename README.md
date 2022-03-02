@@ -1,4 +1,4 @@
-![Screenshot (2)](https://user-images.githubusercontent.com/91937109/156312817-4029c48d-2c13-45f8-bd69-1ed4e10db91c.png)
+
 **Microsoft-Future-Ready-Talent-Internship-Project**
 
 This is the project created for Microsoft Future Ready Talent Virtual Internship Program
@@ -33,3 +33,4 @@ Core idea of Project is to build an sample prototype E-Commerce Website for a bu
 **Primary Azure Technology:**
 Static Web Apps
 
+![Screenshot (2)](https://user-images.githubusercontent.com/91937109/156312817-4029c48d-2c13-45f8-bd69-1ed4e10db91c.png)
