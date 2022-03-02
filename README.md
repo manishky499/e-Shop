@@ -32,3 +32,4 @@ Core idea of Project is to build an sample prototype E-Commerce Website for a bu
 
 **Primary Azure Technology:**
 Static Web Apps
+
