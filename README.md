@@ -3,7 +3,9 @@
 This is the project created for Microsoft Future Ready Talent Virtual Internship Program
 
 Azure Url For Future Ready Talent Project: https://calm-hill-08569f110.1.azurestaticapps.net
+
 Project Link(GitHub repository URL): https://github.com/manishky499/e-Shop
+
 Project Demo URL: https://manishky499.github.io/e-Shop/
 
 
