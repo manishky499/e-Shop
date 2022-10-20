@@ -69,6 +69,6 @@ Static Web Apps
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/91937109/156317798-5c31c288-404e-4b29-9883-e0f57c061329.png)
 
-![Screenshot (20)](https://user-images.githubusercontent.com/91937109/156317839-932685d7-e62a-4940-bae4-3d239069f005.png)
+
 
 
