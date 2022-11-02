@@ -1,7 +1,7 @@
 
-**FINAL YEAR PROJECT**
+**FUTURE READY TALENT INTERNSHIP PROJECT**
 
-This is the project created for Final Year Project 
+This is the project created for Future Ready Talent Internship.
 
 Azure Url For the Project: https://calm-hill-08569f110.1.azurestaticapps.net
 
