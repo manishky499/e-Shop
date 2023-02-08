@@ -14,7 +14,7 @@ Project Demo URL: https://manishky499.github.io/e-Shop/
 
 **e-Shop: An E-Commerce Website**
 __________________________________
-This is a Full Stack E-Commerce website
+This is a E-Commerce website
 
 Web Technologies used: HTML, CSS, JavaScript 
 
